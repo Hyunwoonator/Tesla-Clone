@@ -1,0 +1,44 @@
+@font-face{
+    font-family: "iCielmedium";
+    src: local("iCielmedium"), url("./fonts/iCiel-Medium.ttf") format("truetype");
+    font-weight: normal;
+}
+  
+*{
+    font-family: "iCielmedium";
+}
+
+.container-fluid div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-link {
+    color: black !important;
+    justify-content: center;
+}
+
+#images {
+    margin: 0;
+    scroll-snap-type: y mandatory;
+    overflow-y: auto;
+}
+
+#images img{
+    scroll-snap-align: start;
+    min-height: 50vh;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(128,128,128);  
+    opacity: 1;
+}
+
+.text {
+    resize: both;
+}
