@@ -1,6 +1,6 @@
 # Tesla-Clone
 
-<img src="./Images/teslalogo.jpeg"></img>
+<img src="./Images/teslalogo.jpeg" style="img {display: inline-block;}"></img>
 
 https://hyunwoonator.github.io/Tesla-Clone/
 
