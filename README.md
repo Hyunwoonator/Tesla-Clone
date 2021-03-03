@@ -1,5 +1,7 @@
 # Tesla-Clone
 
+<img src="./Images/teslalogo.jpeg"></img>
+
 https://hyunwoonator.github.io/Tesla-Clone/
 
 ## What is is made with??
